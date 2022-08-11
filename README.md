@@ -6,4 +6,4 @@ This app is purposed to detect Lung Cancer using biomarkers including age, gende
 - websafe_svg: This package was used to show the app background which was in SVG form.
 ## Instructions
 ## Credits
-Heka 
+Heka is develeoped by @Mina-Mousa and @MoiMohamed as a part of the first hackathon conducted by STEM Egypt Hack club (EHC 1.0).
